@@ -1,22 +1,6 @@
-def multiply(x,y):
-    return x * y
+def my_func():
+    print("spam")
+    print("spam")
+    print("spam")
 
-a = 4
-b = 7
-operation = multiply
-print(operation(a, b))
-
-def add(x, y):
-    return x + y
-
-def do_twice(func(x, y):
-    return func(func(x, y), func(x, y))
-
-    a = 5
-    b = 10
-
-    print(do_twice(add, a, b))
-    
-
-
-
+my_func()
